@@ -73,7 +73,6 @@ I enjoy designing RESTful APIs, implementing secure authentication and authoriza
 
 - System Design
 - Scalable Backend Architecture
-- Redis (Advanced)
 - Docker & Deployment
 
 ---
